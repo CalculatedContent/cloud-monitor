@@ -1,4 +1,5 @@
 cloud-monitor
 =============
 
-monitor for the cloud crawler application
+Sinarta web app to monitor for the cloud crawler 
+
