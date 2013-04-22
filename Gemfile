@@ -4,5 +4,5 @@ gem 'multi_json'
 gem "sinatra"
 gem "whenever"
 
-gem 'sourcify', :git=>"git://github.com/charlesmartin14/sourcify.git" 
-gem 'qless', :git=>"git://github.com/charlesmartin14/qless.git"
+gem 'sourcify', :git=>"git://github.com/CalculatedContent/sourcify.git" 
+gem 'qless', :git=>"git://github.com/CalculatedContent/qless.git"
